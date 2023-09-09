@@ -2,4 +2,4 @@
 
 Recipes Project for Odin Project
 
-Uses HTML
+Uses HTML and CSS
